@@ -5,4 +5,6 @@
     <color name="colorAccent">#FF4081</color>
     <color name="backgroundMessage">#f8f8f8</color>
     <color name="backgroundColor">#7678</color>
+    <color name="messageOther">#e6e6e6</color>
+    <color name="messageMine">#fceec7</color>
 </resources>
