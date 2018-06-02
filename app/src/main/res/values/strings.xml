@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SafeWey</string>
+    <string name="textMessage">Contenido de prueba para el mensaje</string>
 </resources>
